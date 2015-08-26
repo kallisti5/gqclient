@@ -24,7 +24,7 @@
 #ifndef GQ_ENCRYPTION_H
 #define GQ_ENCRYPTION_H
 
-#include <glib/garray.h>
+#include <glib.h>
 #include "util.h"
 
 G_BEGIN_DECLS

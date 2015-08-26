@@ -26,7 +26,7 @@
 #ifndef GQ_SERVER_LIST_H
 #define GQ_SERVER_LIST_H
 
-#include <glib/gmacros.h>
+#include <glib.h>
 #include "gq-server.h" // for GqServer
 
 G_BEGIN_DECLS
